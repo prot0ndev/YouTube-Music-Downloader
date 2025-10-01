@@ -1,4 +1,4 @@
-# 🎵 YouTube Music Downloader - Modern UI
+# 🎵 YouTube Music Downloader
 
 A sleek, modern YouTube music downloader with a beautiful fluent design interface. Download individual songs or entire playlists with an intuitive, user-friendly experience.
 
@@ -79,4 +79,5 @@ A sleek, modern YouTube music downloader with a beautiful fluent design interfac
 <div align="center">
   <p>Made with ❤️ by <a href="https://github.com/yourusername">Botiwa</a></p>
   <p>⭐ Star this repo if you found it helpful!</p>
+
 </div>
