@@ -77,7 +77,8 @@ A sleek, modern YouTube music downloader with a beautiful fluent design interfac
 - **Download during off-peak hours** for better speeds
 
 <div align="center">
-  <p>Made with ❤️ by <a href="https://github.com/yourusername">Botiwa</a></p>
+  <p>Made with ❤️ by Botiwa</p>
   <p>⭐ Star this repo if you found it helpful!</p>
 
 </div>
+
